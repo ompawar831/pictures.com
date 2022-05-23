@@ -1,0 +1,19 @@
+.sim{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(235, 255, 123);
+    border:solid
+}
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(91, 217, 255);
+}
+
+body{
+    background-color: rgb(77, 204, 83);
+}
+

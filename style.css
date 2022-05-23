@@ -1,0 +1,34 @@
+.header{
+    display: flex;
+    background-color: rgb(247, 208, 247);
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(255, 220, 196);
+}
+
+.movies{
+    display: flex;
+    justify-content: center;
+} 
+
+.sim{
+    display: flex;
+    justify-content: flex-start;
+    background-size: 0%;
+    background-color: rgb(192, 241, 241);
+}
+
+.sim{
+    font-size: 20px;
+}
+    
+.oldy{
+    display: flex;
+    justify-content: flex-start;
+    background-size: 0%;
+    background-color: rgb(241, 168, 168);
+
+}
+
